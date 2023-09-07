@@ -79,7 +79,7 @@ document.querySelector('img').onEvent.activate('click');
 To use the library, you just need to include the `on-event.js` file in your Web page. You can download it from the [GitHub repository](https://github.com/dealfonso/on-event) or get it from the CDN:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/dealfonso/on-event@1/dist/on-event.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/dealfonso/on-event@0.1/dist/on-event.min.js"></script>
 ```
 
 ### Declarative HTML Version
